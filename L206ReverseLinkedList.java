@@ -13,7 +13,6 @@ public class L206ReverseLinkedList {
             prev=curr;
             curr=temp;
         }
-
         return prev;
     }
 }
